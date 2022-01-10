@@ -1,5 +1,5 @@
 <p align = "center">
-	<img alt="ScrcpyWidget" src="Code.png">
+	<img alt="Logo" src="Code.png">
 </p>
 
 - 👋 Hi, I’m @woodecode
