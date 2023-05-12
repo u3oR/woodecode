@@ -1,5 +1,5 @@
 <p align = "center">
-	<img alt="Logo" src="Mamench_DB.jpg" height="233px" width="500px">
+	<img alt="Logo" src="Mamench_DB.jpg" height="326px" width="700px">
 </p>
 
 - 📖 I’m studying at CDUT(二仙桥恐龙大学)
