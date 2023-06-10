@@ -1,5 +1,5 @@
 <p align = "center">
-	<img alt="Logo" src="Code.png" height="100px" width="200px">
+	<img alt="Logo" src="Code.png">
 	<br>
 	<br>code<br>
 	<br>
