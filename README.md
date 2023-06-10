@@ -1,7 +1,6 @@
 <p align = "center">
 	<img alt="Logo" src="Code.png">
 	<br>
-	<br>code<br>
 	<br>
 </p>
 
