@@ -1,7 +1,7 @@
 <p align = "center">
-	<img alt="Logo" src="Mamench_DB.jpg" height="326px" width="700px">
+	<img alt="Logo" src="Code.png" height="326px" width="700px">
 	<br>
-	<br>马门溪龙(Mamenchisaurus)<br>
+	<br>code<br>
 	<br>
 </p>
 
