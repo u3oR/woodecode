@@ -1,8 +1,4 @@
-<p align = "center">
-	<img alt="Logo" src="Code.png">
-	<br>
-	<br>
-</p>
+# Hey there, I'm 3oR!
 
 - 📖 I’m studying at CDUT(二仙桥恐龙研究院)
 - 👀 I’m interested in Japanese、Movie ...
