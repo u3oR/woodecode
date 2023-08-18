@@ -1,4 +1,4 @@
-# Hey there, I'm 3oR!
+# Hey there, I'm Neon!
 
 - 📖 I’m studying at CDUT(二仙桥恐龙研究院)
 - 👀 I’m interested in Japanese、Movie ...
